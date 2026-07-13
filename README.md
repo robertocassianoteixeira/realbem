@@ -2,8 +2,7 @@
 
 Protótipo clicável do app **Realbem Clube** (clube de benefícios), construído a partir das telas de UI originais. Simula o fluxo de um usuário visitante fazendo login e navegando pelas áreas do app.
 
-🔗 **Acesse:** `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`
-*(atualize este link depois de ativar o GitHub Pages)*
+🔗 **Acesse:** [https://robertocassianoteixeira.github.io/realbem/](https://robertocassianoteixeira.github.io/realbem/)
 
 ## Como usar
 
